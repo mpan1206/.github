@@ -17,8 +17,8 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpan1206&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mpan1206&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
-*Feel free to explore my repositories and reach out!*
+_Feel free to explore my repositories and reach out!_
